@@ -1,4 +1,4 @@
-# LinkedIn Poll assesmeent
+# LinkedIn Poll assesment
 - This project is used to post poll questions to the LinkedIn groups that are interested in polling questions which is joined by the user.
 
 ## 🛠 Skills
