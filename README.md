@@ -32,5 +32,5 @@ conda activate venv
 pip install -r requirements.txt
 ```
 
-# To run the project
+# To run the project and server
 python main.py
